@@ -30,7 +30,7 @@
 	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
 	--background:					url(https://f2.toyhou.se/file/f2-toyhou-se/images/87062994_tegpB9k9dB5321m.png);	/* general background image				*/
-	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
+	--backgroundposition:			top;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
 	
